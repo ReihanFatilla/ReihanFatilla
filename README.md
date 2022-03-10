@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Naufal, a student from Indonesia that's passionate about programming 
+I’m Reihan, a High School Student from Indonesia that's passionate about programming 
 
 Want to know more about me? [Check out my portfolio.]()
 
