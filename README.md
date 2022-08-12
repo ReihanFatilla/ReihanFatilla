@@ -1,6 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Visits Badge](https://badges.pufler.dev/visits/reihanfatilla/reihanfatilla)](https://github.com/reihanfatilla)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/muhammad-reihan-fatilla-48a62721a//)
 
 Hey there 👋
@@ -22,8 +21,8 @@ Want to know more about me? [Check out my portfolio.]()
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=reihanfatilla&repo=Reado&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/ReihanFatilla/Notto">
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=reihanfatilla&repo=Notto&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/ReihanFatilla/Gojek-UI">
+<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=reihanfatilla&repo=Gojek-UI&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/ReihanFatilla/MuVi">
